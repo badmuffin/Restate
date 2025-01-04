@@ -10,8 +10,8 @@ export default function Index() {
         alignItems: "center",
       }}
     >
-      <Text style={{backgroundColor: "Red", padding: 20}}>Hello</Text>
-      <Link href={"/signIn"}>SignIn</Link>
+      <Text style={{backgroundColor: "red", padding: 20}}>Hello</Text>
+      <Link href={"/sign-in"}>SignIn</Link>
       <Link href={"/explore"}>Explore</Link>
       <Link href={"/profile"}>Profile</Link>
       <Link href={"/properties/1"}>Property</Link>
